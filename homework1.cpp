@@ -8,13 +8,10 @@ int main() {
 	cout << "Enter your numbers: ";
 	for (int i = 0;i < n;i++) {
 		cin >> numbers[i];
-	}
-	for (int i = 0;i < n;i++) {
 		if (numbers[i] > max) {
 			max = numbers[i];
 		}
-	}
-	for (int i = 0;i < n;i++) {
+
 		if (numbers[i] < max && numbers[i] > secondMax) {
 			secondMax = numbers[i];
 		}
