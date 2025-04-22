@@ -11,10 +11,8 @@ int main() {
 		if (numbers[i] > max) {
 			max = numbers[i];
 		}
-	}
-	for (int i = 0;i < n;i++) {
-		if (numbers[i] < max && numbers[i] > secondMax) {
-			secondMax = numbers[i];
+		if (i > 0 && numbers[i - 1] < max && numbers[i - 1] > secondMax) {
+			secondMax = numbers[i - 1];
 		}
 	}
 	cout << "The second highest number is " << secondMax << ".";
