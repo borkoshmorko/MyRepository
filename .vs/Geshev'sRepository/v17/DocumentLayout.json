@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Homework\\250506Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework\\250506Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\250430WhileLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classwork\\250430WhileLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bobig\\Source\\Repos\\Geshev\u0027sRepository\\Homework\\homework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework\\homework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classwork\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +43,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "250506Homework.cpp",
+              "DocumentMoniker": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Homework\\250506Homework.cpp",
+              "RelativeDocumentMoniker": "Homework\\250506Homework.cpp",
+              "ToolTip": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Homework\\250506Homework.cpp",
+              "RelativeToolTip": "Homework\\250506Homework.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:04:08.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\test.cpp",
+              "RelativeDocumentMoniker": "Classwork\\test.cpp",
+              "ToolTip": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\test.cpp",
+              "RelativeToolTip": "Classwork\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T13:36:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "250430WhileLoop.cpp",
+              "DocumentMoniker": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\250430WhileLoop.cpp",
+              "RelativeDocumentMoniker": "Classwork\\250430WhileLoop.cpp",
+              "ToolTip": "C:\\Users\\bobig\\source\\repos\\Geshev\u0027sRepository\\Classwork\\250430WhileLoop.cpp",
+              "RelativeToolTip": "Classwork\\250430WhileLoop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T12:55:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homework1.cpp",
+              "DocumentMoniker": "C:\\Users\\bobig\\Source\\Repos\\Geshev\u0027sRepository\\Homework\\homework1.cpp",
+              "RelativeDocumentMoniker": "Homework\\homework1.cpp",
+              "ToolTip": "C:\\Users\\bobig\\Source\\Repos\\Geshev\u0027sRepository\\Homework\\homework1.cpp",
+              "RelativeToolTip": "Homework\\homework1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T21:43:30.639Z",
+              "EditorCaption": ""
             }
           ]
         }
