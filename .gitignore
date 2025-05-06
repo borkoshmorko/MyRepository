@@ -1,0 +1,65 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+*.run
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt-specific
+*.moc
+*.qrc
+*.qmlc
+*.pro.user
+
+# IDE files
+*.user
+*.user.*
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.*
+*.xcodeproj
+*.idea/
+*.vscode/
+
+# MacOS files
+.DS_Store
+
+# Backup and temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Visual Studio local settings
+.vs/
